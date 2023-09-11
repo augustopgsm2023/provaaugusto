@@ -10,14 +10,19 @@ h3{
     background-color: blue;
     text-align: center;
 }
-h4{
-    background-color: blue;
-    text-align: center;
-}
 p{
     text-align: center;
     font-size: larger;
 }
 .importante{
-    color: brown;
+    color: red;
+    font-size: large}
+
+    .imagemcentralizada {
+        text-align: center;
+    }
+.tópicos{
+    display: inline-block;
+    padding: 5%;
+    margin-right: 10%;
 }
