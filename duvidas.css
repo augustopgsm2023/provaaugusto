@@ -1,0 +1,35 @@
+.tópicos{
+    text-align: center;
+    display: list-item;
+    padding: 1%;
+    margin: right 50%;
+}
+.listas{
+    text-align: center;
+    color: darkred;
+}
+h1{
+    background-color: blue;
+    text-align: center;
+    font-size: 30px;
+    color: black;
+}
+p{
+    text-align: center;
+    font-size: 20px;
+    color: red;
+    
+}
+h2{
+    text-align: center;
+    color: black;
+    font-size: 30px;
+    background-color: red;
+}
+.imagem{
+     width: 600px;
+     text-align: center;
+}
+.imagemcentralizada{
+        text-align: center;
+    }
