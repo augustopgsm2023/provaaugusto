@@ -1,0 +1,43 @@
+h1 {
+    background-color: blue;
+    text-align: center;
+}
+h2{
+    background-color: blue;
+    text-align: center;
+}
+h3{
+    background-color: blue;
+    text-align: center;
+}
+p{
+    text-align: center;
+    font-size: larger;
+}
+.importante{
+    color: red;
+    font-size: large}
+
+    .imagemcentralizada {
+        text-align: center;
+    }
+.tópicos li:active{
+    border-color: #088C19;
+    display: list-item;
+    padding: 0%;
+    margin-right:0%
+}
+.listas li:hover{
+    border-color: #088C19;
+    text-align: left;
+    color: black;
+    font-size: medium;
+}
+.imagem{
+    width: 400px;
+}
+h5{
+    text-align: center;
+    color: black;
+    font-size: larger;
+}
